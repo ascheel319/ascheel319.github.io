@@ -1,0 +1,4111 @@
+{
+	"JAN":
+	[
+		{
+			"DATE": 1,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2000,
+					"EVENT": "AT&T, which once held a monopoly over landline phone service in the United States, broke up into several regional providers known as 'Baby Bells' pursuant to a court order.",
+					"CATEGORY": "business"
+				},
+				{
+					"YEAR": 1863,
+					"EVENT": "The Emancipation Proclamation was made by Abraham Lincoln 1863. It freed all Confederate slaves, and had followed from the statements he made after 1862's Battle of Antietam",
+					"CATEGORY": "history"
+				},
+				{
+					"YEAR": 1970,
+					"EVENT": "The 'Start of Time' for computers happened on this day. All computers count up since this date as a way to keep time. This could lead to a problem similr to Y2K in 2038 as the variable will overflow and become a negative number.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 2,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1999,
+					"EVENT": "A major snowstorm strikes the Midwestern leaving 14 inches of snow in Milwaukee, Wisconsin, and 19 inches in Chicago, Illinois, where temperatures plunge to -13 °F (-25 °C); 68 deaths are reported",
+					"CATEGORY": "weather"
+				},
+				{
+					"YEAR": 1839,
+					"EVENT": "The first astronomical photo is taken by Louis Daguerre, inventor of the daguerreotype, an early variety of photograph. The famous picture was of the moon.",
+					"CATEGORY": "space"
+				}
+			]
+		},
+		{
+			
+			"DATE": 3,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2009,
+					"EVENT": "Bitcoin was mined for the first time. Known as the 'Genesis Block', the first group of bitcoins was mined by Satoshi Nakamoto.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 4,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1642,
+					"EVENT": "Birth of Sir Isaac Newton, who helped develop modern calculus and our understanding of classical mechanics.",
+					"CATEGORY": "physics"
+				}
+			]
+		},
+		{
+			"DATE": 5,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1947,
+					"EVENT": "LG is founded in South Korea. THe company started out as a chemical laboratory with their first product being a cosmetic facial cream called 'Lucky Cream'.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 6,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1930,
+					"EVENT": "The first roadtrip in a diesel automobile was completed. Clessie Cummins drove a diesel-powered Packard limousine from Indianapolis to New York City, an approximate 800-mile trip.",
+					"CATEGORY": "cars"
+				}
+			]
+		},
+		{
+			"DATE": 7,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2014,
+					"EVENT": "Corsair debuts the world's first per-key addressable RGB keyboard at CES",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 8,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1994,
+					"EVENT": "Valeri Polyakov, a Russian cosmonaut, begins a stay in space that holds the record for total continuous length - 437 days.",
+					"CATEGORY": "space"
+				}
+			]
+		},
+		{
+			"DATE": 9,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2001,
+					"EVENT": "iTunes is released. At the time, the software didn't feature a store, and was primarily for managing music libraries and burning CDs.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 10,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2006,
+					"EVENT": "Apple announces its first PC with an Intel processor, an iMac with a Core Duo for $1,299.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 11,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1984,
+					"EVENT": "Birth of Matt Mullenweg, known for developing WordPress",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 12,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1882,
+					"EVENT": "The world's first coal power plant begins running in London. Built by Thomas Edison's company, it operated for less than five years.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 13,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2000,
+					"EVENT": "Bill Gates gives up his position as CEO of Microsoft to Steve Ballmer. However, Gates remained Microsoft's chairman until 2014",
+					"CATEGORY": "business"
+				}
+			]
+		},
+		{
+			"DATE": 14,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2005,
+					"EVENT": "The Huygens, a probe built by the European Space Agency, lands on Saturn's moon Titan, marking the farthest distance from Earth a spacecraft has ever landed",
+					"CATEGORY": "space"
+				}
+			]
+		},
+		{
+			"DATE": 15,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2001,
+					"EVENT": "Wikipedia is launched. It has since become the largest general-refernce website",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 16,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2007,
+					"EVENT": "Netflix launches its video streaming service. Previously, Netflix's business model was based on mailing rental DVDs to subscribers.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 17,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1984,
+					"EVENT": "In a landmark decision, the US Supreme Court rules in Sony v. Universal that consumers using VCRS to record shows at home for personal use is not copyright infringement. The decision helped VCRS become a mainstay in homes until the 2000s.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 18,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2014,
+					"EVENT": "Goal-line technology awards an English Premier League goal for the first time. The goal was scored by Manchester City's Edin Dzeko in a 4-2 win over Cardiff City.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 19,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1983,
+					"EVENT": "Apple introduces the Lisa personal computer. Although it flopped commercially, it was regarded as ahead of its time in a technical sense. The Lisa was priced at nearly $10,000, meaning the much-cheaper Macintosh was more appealing to most consumers.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 20,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1929,
+					"EVENT": "The movie In Old Arizona is released. It was the first movie with spoken audio to be filmed outdoors.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 21,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1954,
+					"EVENT": "The US Navy launches the world's first nuclear submarine. The USS Nautilus would later go on to transit the North Pole.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 22,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1990,
+					"EVENT": "Robert Tappan Morris is convicted of violating the Computer Fraud and Abuse Act after creating the first-ever computer worm to be distributed over the Internet. Morris maintained he did not have malicious intent, and later became a professor at MIT.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 23,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1996,
+					"EVENT": "The Java programming language is released. Java applets have since mostly disappeared from the public Web, but it remains a popular language with developers.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 24,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1984,
+					"EVENT": "Apple releases the original Macintosh computer. It came with a 7.83 MHz processor, 128 kilobytes of RAM, and a 9-inch black and white display.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 25,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1959,
+					"EVENT": "The Boeing 707 makes the world's first commercial transcontinental flight by jet. The trip from Los Angeles to New York took just over four hours.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 26,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1926,
+					"EVENT": "A working television system is demonstrated for the first time by Scottish engineer John Logie Baird.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 27,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2006,
+					"EVENT": "Western Union sends its final telegram",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 28,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2001,
+					"EVENT": "Super Bowl XXXV takes place in Tampa. Infamously, law enforcement secretly used facial recognition software on fans to determine if anyone in the crowd was wanted by police. The system produced several false positives.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 29,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1988,
+					"EVENT": "Tetris is released in North America. Because of its simple but intellectually challenging nature it quickly gained popularity. The game has since spawned many variations on platforms from arcade cabinets to graphing calculators to mobile application.",
+					"CATEGORY": "video games"
+				}
+			]
+		},
+		{
+			"DATE": 30,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1926,
+					"EVENT": "Nikola Tesla correctly predicts the coming of the modern smartphone, stating in a magazine interview that devices we can carry in our pockets would enable clear, instantaneous, and face-to-face communication regardless of distance.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 31,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1958,
+					"EVENT": "Explorer 1, the first American satellite to be put into space, is launched. It remained in orbit until 1970.",
+					"CATEGORY": "space"
+				}
+			]
+		}
+	],
+	"FEB":
+	[
+		{
+			"DATE": 1,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2003,
+					"EVENT": "The Space Shuttle Columbia breaks apart as it re-enters the atmosphere due to wing damage sustained during launch. The seven-member crew was killed.",
+					"CATEGORY": "space"
+				}
+			]
+		},
+		{
+			"DATE": 2,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1935,
+					"EVENT": "A lie detector, or polygraph, is used for the first time to score a conviction. However, polygraphs remain notoriously unreliable into modern times.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 3,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1690,
+					"EVENT": "Paper money appears for the first time in the Americas, as the Colony of Massachusetts prints 'bills of credit' to pay soldiers fighting against the French on behalf of the British Crown.",
+					"CATEGORY": "finance"
+				}
+			]
+		},
+		{
+			"DATE": 4,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2004,
+					"EVENT": "Facebook is launched. Originally available only to students at Harvard University, the site began accepting registrations from the general public in September 2006.",
+					"CATEGORY": "business"
+				}
+			]
+		},
+		{
+			"DATE": 5,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1952,
+					"EVENT": "The first automatic sign that featured the words 'DON'T WALK' was installed in New York City.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 6,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1998,
+					"EVENT": "The V.90 dial-up modem standard is announced. It helped popularize internet access at 56k speeds, but dial-up connections would quickly be replaced by broadband during the 2000s.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 7,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1958,
+					"EVENT": "DARPA is founded. Although DARPA develops technology for the US military, it has helped develop important technologies used by civilians, including the Internet and graphical user interfaces",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 8,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2005,
+					"EVENT": "Google Maps launches. Its Android app has since been installed over five billion times.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 9,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1969,
+					"EVENT": "The Boeing 747 makes its first flight.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 10,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1996,
+					"EVENT": "IBM's 'Deep Blue' computer defeats world chess champion Garry Kasparov, making the first time a computer bested a world champion.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 11,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1938,
+					"EVENT": "The world's first sci-fi TV program is broadcast by the BBC. The program was based off a play that introduced the term 'robot'.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 12,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2014,
+					"EVENT": "Twitch Plays Pokemon begins. The Twitch community completed Pokemon Red in less than 17 days and set a Guinness World Record for the most players on a single-player online game: 1,165,140.",
+					"CATEGORY": "video games"
+				}
+			]
+		},
+		{
+			"DATE": 13,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1895,
+					"EVENT": "The Lumière brothers patent their cinematograph, which could both record and project video. Although they were not the first to develop a similar device, they were probably the first to show a motion picture to a large audience.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 14,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1876,
+					"EVENT": "The telephone is patented. In a strange twist, both Alexander Graham Bell and Elisha Gray both patented it on this day, contributing to a bitter dispute about which man should have been given credit for the invention.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 15,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1999,
+					"EVENT": "Users of open-source operating systems such as Linux stage a 'Windows Refund Day' where they demanded that Microsoft refund them for the Windows licenses they were required to buy with their new PCs. Microsoft asked the protesters to take up the issue with the PC manufacturers themselves.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 16,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1968,
+					"EVENT": "The first 9-1-1 call is placed in the US, by a member of the Alabama House of Representatives in Haleyville, AL.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 17,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2000,
+					"EVENT": "Windows 2000 is released. It would be the last version of Windows NT intended for business only, as Windows XP, released the following year, transistioned home users to the NT kernel.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 18,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1946,
+					"EVENT": "Cable TV is tested for the first time, as a broadcast is sent from Washington DC to New York City.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 19,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2008,
+					"EVENT": "HD DVD is discontinued. The optical disc had been in a format war with Blu-ray for dominance in the high definition home video market.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 20,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1962,
+					"EVENT": "John Glenn becomes the first American to orbit the Earth. His famous flight lasted just under five hours.",
+					"CATEGORY": "space"
+				}
+			]
+		},
+		{
+			"DATE": 21,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1986,
+					"EVENT": "The Legend of Zelda is released for the NES. The first game in the franchise that has on multiple occasions changed the gaming industry.",
+					"CATEGORY": "video games"
+				}
+			]
+		},
+		{
+			"DATE": 22,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1978,
+					"EVENT": "The US government launches the first GPS satellite. Originally a military project, GPS support has become a fixture in smartphones and other consumer electronics.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 23,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1455,
+					"EVENT": "The Gutenberg Bible becomes the first mass-produced book printed on movable type in Europe. This date is traditionally considered the start of the era of printed books in the Western world.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 24,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1955,
+					"EVENT": "Steve Jobs is born in San Francisco. Jobs was adopted shortly therafter and never met his biological father.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 25,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2007,
+					"EVENT": "Netflix delivers its one billionth DVD. However, by this time, the company was already starting to transition to streaming.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 26,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1616,
+					"EVENT": "The Catholic Church demanded that Galileo abandon teaching that the Earth revolved around the Sun. Over 376 years later, Pope John Paul II admitted that the church had made a mistake.",
+					"CATEGORY": "science"
+				}
+			]
+		},
+		{
+			"DATE": 27,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1996,
+					"EVENT": "The Pokemon series launches in Japan with two titles for the Game Boy. It would go on to become the world's highest-grossing media franchise",
+					"CATEGORY": "video games"
+				}
+			]
+		},
+		{
+			"DATE": 28,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1954,
+					"EVENT": "The first color TV sets were sold in the US. However, color sets would not find widespread popularity until the 1960s.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 29,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1692,
+					"EVENT": "The first warrants were issued in the Salem Witch Trials",
+					"CATEGORY": "misc"
+				}
+			]
+		}
+	],
+	"MAR":
+	[
+		{
+			"DATE": 1,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1938,
+					"EVENT": "Samsung is founded in Daegu, Korea. The company originally sold groceries instead of electronics.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 2,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1969,
+					"EVENT": "The Concorde makes its first flight. Although it was the only supersonic airliner built by the Western bloc, commercial flights ended in 2003 due to high maintenance costs and poor consumer sentiments.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 3,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2005,
+					"EVENT": "Steve Fossett becomes the first person to fly solo around the world without stopping. The entire flight took roughly 67 hours.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 4,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2000,
+					"EVENT": "The Playstation 2 is relesed in Japan. The PS2 had a remarkably long life for a console - it was produced for over 12 years, and customer support did not end until 2018. It is still the highest selling home console of all time.",
+					"CATEGORY": "video games"
+				}
+			]
+		},
+		{
+			"DATE": 5,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1975,
+					"EVENT": "The Homebrew Computer Club holds its first meeting. The club is most famous for counting Steve Jobs and Steve Wozniak, co-founders of Apple, among its ranks.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 6,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1869,
+					"EVENT": "Dmitri Mendeleev presents the first-ever periodic table of the elements to the Russian Chemical Society.",
+					"CATEGORY": "science"
+				}
+			]
+		},
+		{
+			"DATE": 7,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1900,
+					"EVENT": "German ocean liner Kaiser Wilhelm der Grosse becomes the first ship to send a wireless communication to shore.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 8,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1922,
+					"EVENT": "Ralph Henry Baer is born in Germany. He is best-known for creating the first home video game console, the Magnavox Odyssey, and as such is often referred to as the 'Father of Video Games'.",
+					"CATEGORY": "video games"
+				}
+			]
+		},
+		{
+			"DATE": 9,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1862,
+					"EVENT": "The Battle of Hampton Roads takes place in Virginia during the American Civil War. It marked the first time two ironclad ships faced off in combat.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 10,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1876,
+					"EVENT": "Alexander Graham Bell makes the first-ever phone call to Thomas Watson.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 11,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1986,
+					"EVENT": "The National Football League adopts instant replay for regular season games, allowing officials to review calls made on the field. The system was discontinued in 1992, but revived with different rules in 1993.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 12,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2008,
+					"EVENT": "Hulu is launched. Originally, the service hosted recent episodes of TV shows, though it now offers a broader library of content.",
+					"CATEGORY": "business"
+				}
+			]
+		},
+		{
+			"DATE": 13,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1986,
+					"EVENT": "Microsoft goes public at $21 a share. Investing $5,000 at the time would have given an individual over $10 million by 2020.",
+					"CATEGORY": "business"
+				}
+			]
+		},
+		{
+			"DATE": 14,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1942,
+					"EVENT": "Penicillin is used for the first time on an American patient. The treatment was given in response to a streptococcal infection.",
+					"CATEGORY": "health"
+				}
+			]
+		},
+		{
+			"DATE": 15,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1985,
+					"EVENT": "The domain symbolics.com is registered, making it the first-ever dot-com domain name. A virtual 'internet museum' can be viewed at the website today.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 16,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1983,
+					"EVENT": "The last remaining wooden radio tower in Germany is torn down. Located in Bavaria, it bore a striking resemblance to the famous Eiffel Tower in Paris.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 17,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1958,
+					"EVENT": "The US launches the world's first solar-powered satellite, Vanguard 1. Its science mission ended in 1964, but it remains in orbit to this day.",
+					"CATEGORY": "space"
+				}
+			]
+		},
+		{
+			"DATE": 18,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1986,
+					"EVENT": "An article in The New York Times reports that teenagers from New Jersey had figured out the space station Mir had been launched before the Soviet regime annouced it.",
+					"CATEGORY": "space"
+				}
+			]
+		},
+		{
+			"DATE": 19,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1931,
+					"EVENT": "Nevada legalizes gambling after banning it in 1909. Today, Nevada casinos are steeped in technology to prevent cheating, and Las Vegas's Consumer Electronic Show (CES) is one of the world's largest technology trade shows due to its economic groth brought by the gamling industry.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 20,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1800,
+					"EVENT": "Alessandro Volta writes a letter to the Royal Society describing his new invention - the battery.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 21,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2006,
+					"EVENT": "Jack Dorsey sends the world's first tweet. You can still view it at twitter.com/jack/status/20",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 22,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1993,
+					"EVENT": "The first-ever intel Pentium processor is released. It came in 60 MHz and 66 MHz versions, and was manufactured on a 800-nanometer process.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 23,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1983,
+					"EVENT": "US President Ronald Reagan announces the Strategic Defense Initiative, a plan to counter incoming nuclear missiles by destroying them using space-based infrastructure. The program, dubbed by the media as 'Star Wars', was never implemented.",
+					"CATEGORY": "space"
+				}
+			]
+		},
+		{
+			"DATE": 24,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2001,
+					"EVENT": "Mac OS X is released. Currently known as macOS, it's still the operating system that ships with Mac computers, albeit with many modificiations over the years.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 25,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1997,
+					"EVENT": "The action movie Twister becomes the first major film to be relased on home DVD.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 26,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1999,
+					"EVENT": "The Melissa virus is released. It is considered to be the first computer virus to cause widespread mayhem. The individual who relased it, David L. Smith, was later sentenced to 20 months in prison.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 27,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1977,
+					"EVENT": "Two Boeing 747 airplanes collide on a runway on Tenerife, one of Spain's Canary Islands. The accident remains the deadliest in the history of commercial aviation.",
+					"CATEGORY": "airplanes"
+				}
+			]
+		},
+		{
+			"DATE": 28,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1933,
+					"EVENT": "An airliner named the City of Liverpool crashes in Belgium. It is believed to be the first passenger airplan lost to deliberate sabotage.",
+					"CATEGORY": "airplanes."
+				}
+			]
+		},
+		{
+			"DATE": 29,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1999,
+					"EVENT": "The Dow Jones closes abover 10,000 for the first time, helped along by the dot-com bubble as investors scrabmled to buy tech stocks. However, the bubble famously burst the next year, but several companies survived and became giants of the tech industry, including Amazon and Google.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 30,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2017,
+					"EVENT": "SpaceX successfully re-uses a rocket for spaceflight for the first time ever, which could result in significant cost savings for future launches.",
+					"CATEGORY": "space"
+				}
+			]
+		},
+		{
+			"DATE": 31,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1951,
+					"EVENT": "The US Census Bureau signs a contract to become the first entity to buy the UNIVAC I, the first American computer built for business. The system ran at 2.25 megahertz and weighed 7.6 tons.",
+					"CATEGORY": "tech"
+				}
+			]
+		}
+	],
+	"APR":
+	[
+		{
+			"DATE": 1,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1976,
+					"EVENT": "Apple is founded in Los Altos, California by Steve Jobs, Steve Wozniak, and Ronald Wayne. Wayne sold his share of the company to Jobs and Wozniak less than two weeks later for just $800",
+					"CATEGORY": "business"
+				}
+			]
+		},
+		{
+			"DATE": 2,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1987,
+					"EVENT": "IBM announces its lineup of Personal Systems/2 computers. The PS/2 introduced a number of common PC standards, including the 3.5 inch floppy drive, VGA video and the PS/2 prot for keyboards and mice.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 3,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1981,
+					"EVENT": "The Osborne 1, the world's first commercially successful consumer laptop, was released. It featured a 5-inch monochrome CRT and a 4 megahertz processor. Weighing in at nearly 25 pounds, it cost $1,795 - equivalent to over $5,100 today.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 4,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1975,
+					"EVENT": "Microsoft is founded in Albuquerque, New Mexico. The company originally spelled its name 'Micro-Soft' before dropping the hyphen in 1981.",
+					"CATEGORY": "business"
+				}
+			]
+		},
+		{
+			"DATE": 5,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1993,
+					"EVENT": "NVIDIA is founded. The name is derived from the Latin word for 'envy'. One of the original founders, Jensen Huang, is STILL the company's CEO.",
+					"CATEGORY": "business"
+				}
+			]
+		},
+		{
+			"DATE": 6,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1992,
+					"EVENT": "Microsoft releases Windows 3.1. This version of Windows introduced the Registry, drag-and-drop icons, and support for TrueType fonts.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 7,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2001,
+					"EVENT": "NASA launches the 2001 Mars Odyssey, a Mars orbiter. Although it was not the first human-made spacecraft to orbit Mars, it is the oldest still in operation, and is expected to continue to operate until 2025.",
+					"CATEGORY": "space"
+				}
+			]
+		},
+		{
+			"DATE": 8,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2008,
+					"EVENT": "Construction is completed on the Bahrain World Trade Center, the world's first skyscaper with built-in wind turbines.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 9,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2012,
+					"EVENT": "Facebook announces it's acquisition of Instagram for $1 billion. Estimates indicate that Instagram alone is worth over $100 billion today.",
+					"CATEGORY": "business"
+				}
+			]
+		},
+		{
+			"DATE": 10,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1710,
+					"EVENT": "The Statuete of Anne takes force in Great Britain. This was the world's first copyright law passed by a legislature.",
+					"CATEGORY": "misc"
+				}
+			]
+		},
+		{
+			"DATE": 11,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1976,
+					"EVENT": "The Apple I, Apple's first-ever product, is released. The computer used a 1 megahertz processor and came with 4 kilobytes of RAM.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 12,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1961,
+					"EVENT": "Soviet cosmonaut Yuri Gagarin becomes the first person in space. His flight consisted of one orbit of Earth, which took less than two hours to complete.",
+					"CATEGORY": "space"
+				}
+			]
+		},
+		{
+			"DATE": 13,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2000,
+					"EVENT": "Rock band Metallica sues Napster, alleging that Napster's file-sharing software made the company guilty of copyright infringement. A the time, Napster was already trying to defend itself in a different suit brought by a group of record companies.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 14,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2003,
+					"EVENT": "The Human Genome Project is completed, giving science a near-complete map of the genes of the human body.",
+					"CATEGORY": "medical"
+				}
+			]
+		},
+		{
+			"DATE": 15,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1892,
+					"EVENT": "General Electric, or GE, is founded when one of Thomas Edison's companies merges with another company based in Massachusetts.",
+					"CATEGORY": "business"
+				}
+			]
+		},
+		{
+			"DATE": 16,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1977,
+					"EVENT": "Apple introduces the Apple II, the company's first computer aimed at general business users rather than electronic hobbyists.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 17,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1970,
+					"EVENT": "NASA's Apollo 13 mission safely arrives back on Earth after suffering an explosion in space. Although the mission never made it to the moon, the safe return of the astronauts led Apollo 13 become known as NASA's finest hour.",
+					"CATEGORY": "space"
+				}
+			]
+		},
+		{
+			"DATE": 18,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1930,
+					"EVENT": "The BBC famously told its listeners that there was no news to report that day",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 19,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1999,
+					"EVENT": "Microsoft introduces the IntelliMouse Explorer, the first consumer optical mouse.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 20,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1998,
+					"EVENT": "Bill Gates and Chris Capossela give a demo of the not-yet-released Windows 98. Infamously, the system crashes after Capossela plugs in a scanner in an attempt to demonstrate Windows 98's plug-and-play features.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 21,
+			"EVENTS":
+			[
+				{
+					"YEAR": -753,
+					"EVENT": "Traditional founding date of Rome. Ancient Roman technologies such as sewers, bound books, and surgical clamps are still around - and widespread - today.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 22,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1592,
+					"EVENT": "Wilhelm Shickard, inventor of the mechanical calculator, is born. Although Blaise Pascal - probably independently - developed his own calculator that was functionally superior about 20 years after Shickard's invention, Shickard's machine was still a great innovation and had features Pascal's did not.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 23,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2005,
+					"EVENT": "The first video is uploaded to YouTube. It was an 18-second clip of Jawed Karim, one of YouTube's founders, on a visit to the San Diego Zoo.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 24,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1990,
+					"EVENT": "The Hubble Space Telescope is launched. Although it debuted to much fanfare, a design flaw in a mirror resulted in poor-quality images until it was repaired in 1993.",
+					"CATEGORY": "space"
+				}
+			]
+		},
+		{
+			"DATE": 25,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1953,
+					"EVENT": "James Watson and Francis Crick publish their famous paper describing the double helix structure of DNA.",
+					"CATEGORY": "medical"
+				}
+			]
+		},
+		{
+			"DATE": 26,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1986,
+					"EVENT": "The Chernobyl disaster occurs near Pripyat, Ukraine as a nuclear reactor exploded. Considered the worst nuclear accident in history, it released so much radioactive contamination that over 300,000 people were displaced.",
+					"CATEGORY": "science"
+				}
+			]
+		},
+		{
+			"DATE": 27,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1981,
+					"EVENT": "The Xerox Star workstation is released. It became famous for being the first commercially-available computer system with a mouse.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 28,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2003,
+					"EVENT": "Apple launches the iTunes Music Store, which offered 99-cent song downloads. The virtual store became an immensely popular way to download music legally.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 29,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1953,
+					"EVENT": "The first US broadcast of a 3D television show occurs in Los Angeles. 3D glasses were required to view the show correctly.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 30,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1939,
+					"EVENT": "NBC begins reularly broadcasting TV signals by airing a speech by President Franklin D. Roosevelt, who became the first US President to give a televised speech.",
+					"CATEGORY": "tech"
+				}
+			]
+		}
+	],
+	"MAY":
+	[
+		{
+			"DATE": 1,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1969,
+					"EVENT": "AMD is founded by Jerry Sanders. Ironically, several employees from Sanders' previous employer, Fairchild, had left the previous year to found Intel.",
+					"CATEGORY": "business"
+				}
+			]
+		},
+		{
+			"DATE": 2,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1952,
+					"EVENT": "The first jet flight with paying passengers takes place on a BOAC de Havilland Comet from London to Johannesburg.",
+					"CATEGORY": "airplanes"
+				}
+			]
+		},
+		{
+			"DATE": 3,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1984,
+					"EVENT": "Michael Dell founds Dell Computer. He initially ran the company out of his dorm room at the University of Texas at Austin.",
+					"CATEGORY": "business"
+				}
+			]
+		},
+		{
+			"DATE": 4,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2000,
+					"EVENT": "The infamous ILOVEYOU virus began spreading via e-mail. It infected more than 50 million computers in just 10 days.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 5,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1999,
+					"EVENT": "Windows 98 Second Edition is released. Although the original version of Windows 98 had already been available for nearly a year, Microsoft released a 'Second Edition' after many users complained of bugs and instability.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 6,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1960,
+					"EVENT": "A British royal wedding is televised for the first time. Princess Margaret married Antony Armstrong-Jones, a commer who worked as a photographer.",
+					"CATEGORY": "misc"
+				}
+			]
+		},
+		{
+			"DATE": 7,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1952,
+					"EVENT": "Geoffrey Dummer, a British engineer, gives a speech introducing the idea of the integrated circuit as an alternative to connecting components with wires.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 8,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1976,
+					"EVENT": "The New Revolution roller coaster opens at Six Flags in Valencia, California. It was the world's first steel roller coaster with a loop and remains in operation to this day.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 9,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1996,
+					"EVENT": "Linus Torvalds decides to make Linux's mascot a penguin. The mascot came to be known as Tux and is still used to represent Linux today.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 10,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2013,
+					"EVENT": "One World Trade Center in New York City is topped-out and becomes the tallest building in the Western Hemisphere, a title it still holds.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 11,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1995,
+					"EVENT": "The first Electronics Entertainment Expo - better known as E3 - opens its doors in Los Angeles.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 12,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2017,
+					"EVENT": "A widespread ransomware attack, WannaCry, began spreading around the world. The peretrators, who remain unknown as of August 2020, extorted over $130,000.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 13,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1991,
+					"EVENT": "System 7, a version of the classic Macintosh OS, is released. System 7 was notable for introducting aliases, which are functionally equivalent to Windows shortcuts. However, shortcuts in Windows would not appear until 1995.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 14,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1973,
+					"EVENT": "The first American space station, Skylab, is launched. It would remain in space for over 6 years.",
+					"CATEGORY": "space"
+				}
+			]
+		},
+		{
+			"DATE": 15,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1718,
+					"EVENT": "British inventor James Puckle patents the world's first machine gun. However, the gun never saw action in combat.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 16,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1960,
+					"EVENT": "The first laser is successfully tested at Hughes Research Laboratories in Malibu, California.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 17,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1991,
+					"EVENT": "The world's first web server is set up at CERN in Switzerland.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 18,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1998,
+					"EVENT": "The famous antitrust suit is filed against Microsoft over incorporating Internet Explorer into Windows. The case ended in a settlement, which was not approved until 2004.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 19,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2001,
+					"EVENT": "The first two Apple stores open - one near Washington, DC, and another in Glendale, California. Customers spent nearly $600,000 at the two stores on the first day.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 20,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1927,
+					"EVENT": "Charles Lindbergh takes off on his famous flight that saw him become the first person to fly solo across the Atlantic Ocean. The flight from Long Island to the Paris suburbs took 33.5 hours.",
+					"CATEGORY": "airplanes"
+				}
+			]
+		},
+		{
+			"DATE": 21,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2005,
+					"EVENT": "The world's tallest roller coaster, Kingda Ka, opens in New Jersey. At 456 feet (139 meters), it holds the record to this day.",
+					"CATEGORY": "misc"
+				}
+			]
+		},
+		{
+			"DATE": 22,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2010,
+					"EVENT": "The first-ever Bitcoin transaction for a real-world item is made when a Flordia man buys two pizzas from Papa John's for 10,000 BTC (~$40 at the time of this transaction).",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 23,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1908,
+					"EVENT": "Birth of physicist John Bardeen. The only person to win the Nobel Physics Prize twice, he is most famous for being a co-inventor of the transistor.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 24,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1972,
+					"EVENT": "The Magnavox Odyssey, the first home video game console, is demonstrated for the first time. It would be released later that year.",
+					"CATEGORY": "video games"
+				}
+			]
+		},
+		{
+			"DATE": 25,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2007,
+					"EVENT": "Google launches Street View. Only avaiable in the United States initially, it wouldn't reach other countries until over a year later.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 26,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1995,
+					"EVENT": "Bill Gates sends a famous memor to Microsoft's executive staff stating that the Interent would be a top priority for the company. The company's shift in strategy helped Internet Explorer to dominate the market a few years later.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 27,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1937,
+					"EVENT": "The Golden Gate Bridge opens north of San Franciso. It was the longest suspension bridge in the world when it opened, and is one of the Wonders of the Modern World as designed by the American Society of Civil Engineers.",
+					"CATEGORY": "misc"
+				}
+			]
+		},
+		{
+			"DATE": 28,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1929,
+					"EVENT": "The movie 'On With The Show' is released. The film was notable for being the first full-color feature-length 'talkie'.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 29,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1992,
+					"EVENT": "Apple reveals its Newton PDA at CES. Although it wasn't commercially successful, it helped pioneer ARM CPUs, which are present in most of today's mobile devices.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 30,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1975,
+					"EVENT": "The convention to form the European Space Agency is approved in Paris.",
+					"CATEGORY": "space"
+				}
+			]
+		},
+		{
+			"DATE": 31,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1985,
+					"EVENT": "Steve Jobs is stripped of his power at Apple after his macintosh struggled to compete with the IBM PC; however, he would return to the company in 1997",
+					"CATEGORY": "tech"
+				}
+			]
+		}
+	],
+	"JUN":
+	[
+		{
+			"DATE": 1,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1980,
+					"EVENT": "Cable New Network, better known as CNN, is launched. CNN is notable for being the world's first 24-hour news network. The inaugural newscast was given by a husband-and-wife anchor team.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 2,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1896,
+					"EVENT": "Guglielmo Marconi applies for the first patent for a radio-based communication device. Although other scientists were interested in radio waves at the time, Marconi is credited as the inventor of radio for recognizing its potential in communications and for developing many of the componentes that were the foundations for modern radio sets.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 3,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1960,
+					"EVENT": "The modern incarnation of the Sega Corporation is formed. 'Sega' is a shortening of 'Service Games', one of Sega's predecessors that originally made coin-operated games for servicemen on military bases.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 4,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1977,
+					"EVENT": "VHS is introduced in North America for the first time just prior to the start of CES in Chicago.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 5,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2013,
+					"EVENT": "The first leaks regarding surveillance by the US National Security Agency are revealed to the public.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 6,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2005,
+					"EVENT": "Apple annouces its Macs would switch from PowerPC to Intel processors. However, in 2020 Apple annoucned that they would be transitioning away from Intel to ARM-based CPUs of their own making.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 7,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2000,
+					"EVENT": "Microsoft is ordered to break into two companies due to antitrust violations, but the court order was overturned on appeal - so the breakup never happened, and Microsoft remains a single company to this day.",
+					"CATEGORY": "business"
+				}
+			]
+		},
+		{
+			"DATE": 8,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1978,
+					"EVENT": "Intel releases the 8086 processor. The 8086 was the first CPU to use the x86 architecture which is prsent in the vast majority of consumer CPUs for desktops and laptops.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 9,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1781,
+					"EVENT": "Birth of George Stephenson, a British engineer who built the world's first locomotive railway connecting two cities - Liverpool and Manchester.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 10,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2002,
+					"EVENT": "A husband and wife - Kevin and Irena Warwick - become the first people in history to have their nervous systems linked electronically for an experiment.",
+					"CATEGORY": "medical"
+				}
+			]
+		},
+		{
+			"DATE": 11,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1978,
+					"EVENT": "The Speak & Spell toy was introduced by Texas Intruments. It was the first electronic device to replicate speech on a single silicon chip.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 12,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2009,
+					"EVENT": "The United States transitions to digital broadcast television.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 13,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1983,
+					"EVENT": "Pioneer 10, an American space probe, becomes the first artificial object to leave the Solar System.",
+					"CATEGORY": "space"
+				}
+			]
+		},
+		{
+			"DATE": 14,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1822,
+					"EVENT": "Charles Babbage presents designs for a difference engine to the Royal Astronomical Society. Had it been built, it would have been one of the world's first mechanical computers.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 15,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1754,
+					"EVENT": "Juan José Elhuyar is born in Logroño, Spain. Along with his younger brother, he was the first person to isolate the element tungsten, a key material in incandescent light bulb filaments and modern tools.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 16,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1911,
+					"EVENT": "IBM is founded. The company originally went by the very inelegant name of 'Computing-Tabulating-Recording Company'.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 17,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1980,
+					"EVENT": "Lunar Lander and Asteroids become the first two video games to be copyrighted in the United States.",
+					"CATEGORY":"video games"
+				},
+				{
+					"YEAR": 2012,
+					"EVENT": "Linus Torvalds, the father of Linux kernel, used F word and showed middle finger gesture to NVIDIA for their constant lack of support to Linux machine following a question from a student.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 18,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1981,
+					"EVENT": "The F-117 Nighthawk, the first operational stealth fighter, makes its first flight, taking off from Area 51 in Nevada.",
+					"CATEGORY": "airplanes"
+				}
+			]
+		},
+		{
+			"DATE": 19,
+			"EVENTS":
+			[
+				{
+					"YEAR": -240,
+					"EVENT": "Greek mathematician Eratosthenes becomes the first known person to calulate the circumference of the Earth with accuracy. His calculation was off from the actual number by only 1.4 percent.",
+					"CATEGORY": "misc"
+				}
+			]
+		},
+		{
+			"DATE": 20,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1944,
+					"EVENT": "A German rocket becomes the first human-made object to fly to outer space; however, it did not enter orbit and fell back to Earth.",
+					"CATEGORY": "space"
+				}
+			]
+		},
+		{
+			"DATE": 21,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1948,
+					"EVENT": "The Manchester Baby, the world's first electronic computer capable of storing programs, runs its first program.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 22,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1992,
+					"EVENT": "The original PCI specification is published. Despite the similarity in name to its modern successor, PCI Express, the two standards are not electrically compatible.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 23,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1912,
+					"EVENT": "Alan Turing was born in London. Turing became famous for developing the Turing machine, a conceptual model of a computer that could accomplish any computable task. Most modern programming languages can simulate a Turing machine and are thus described as 'Turing-complete'.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 24,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2010,
+					"EVENT": "The iPhone 4, the first iPhone with a selfie camera, is released.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 25,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1967,
+					"EVENT": "The Consumer Electronics Show, or CES, opened its doors for the first time in New York City. Pocket radios were among the devices on showcase.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 26,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1974,
+					"EVENT": "The first purchase with a UPC scan is made. Shopper Clyde Dawson bought a back of Juicy Fruit gum for 67 cents.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 27,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1972,
+					"EVENT": "Atari is founded. The company is known for being the main force behind the founding of the video game industry, with the game Pong and the Atari 2600 console along its more notable contributions.",
+					"CATEGORY": "video games"
+				}
+			]
+		},
+		{
+			"DATE": 28,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1928,
+					"EVENT": "Friedrich Schmiedl launched his first experimental rocket in Austria. Although it was a failure, his experiments later led to a rocket mail postal service which lasted until 1933.",
+					"CATEGORY": "space"
+				}
+			]
+		},
+		{
+			"DATE": 29,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2007,
+					"EVENT": "The original iPhone is released. It featured a 480p screen, up to 8GB of storage, and a 2-megapixel camera - but no selfie camera or 3G support.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 30,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1937,
+					"EVENT": "The United Kingdom launches the 999 service, the world's first emergency telephone number.",
+					"CATEGORY": "tech"
+				}
+			]
+		}
+	],
+	"JUL":
+	[
+		{
+			"DATE": 1,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1646,
+					"EVENT": "Birth of Gottfried Wilhelm Leibniz. Along with Isaac Newton, Leibniz developed modern calculus.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 2,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1953,
+					"EVENT": "IBM annouces the Model 650, the world's first mass-produced computer.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 3,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2001,
+					"EVENT": "The computer Shuffle Master is awarded a patent for a continuous card-shuffling machine. Now commonplace in casinos, these machines make it much more difficult for blackjack players to count cards.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 4,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1956,
+					"EVENT": "The Whilwind, a computer at MIT, became the first computer to allow input from a keyboard.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 5,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2012,
+					"EVENT": "The Shard is inaugurated in London. It remains the tallest building in both the United Kingdom and Western Europe.",
+					"CATEGORY": "misc"
+				}
+			]
+		},
+		{
+			"DATE": 6,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1885,
+					"EVENT": "Louis Pasteur tests the first successful rabies vaccine on a 9 year-old boy who had been bitten by a rabid dog.",
+					"CATEGORY": "medical"
+				}
+			]
+		},
+		{
+			"DATE": 7,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1928,
+					"EVENT": "Sliced bread was first sold commercially in chillicothe, Missouri. However, there is still no consensus on what the 'greatest this since sliced bread' actually is.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 8,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2011,
+					"EVENT": "The last Space Shuttle mission is launched. Atlantis landed 13 days later, and no Space Shuttle has flown since.",
+					"CATEGORY": "space"
+				}
+			]
+		},
+		{
+			"DATE": 9,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1981,
+					"EVENT": "Mario makes his first appearance in a video game, the original Donkey Kong. Originally unmaned, the character was officially named 'Mario' the next year.",
+					"CATEGORY": "video games"
+				}
+			]
+		},
+		{
+			"DATE": 10,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1925,
+					"EVENT": "The Scopes Trial begins in Tennessee, pitting the state against a schoolteacher who was accused of violating a law forbidding the teaching of evolution. Although the case attracted a large amount of media attention, the teacher, John Scopes, actually volunteered to be a defendant, treating the matter as a test case and requesting that his own students testify against him. The governor of Tennessee who signed the law, Austin Peay, never believed the law would be enforced.",
+					"CATEGORY": "laws"
+				}
+			]
+		},
+		{
+			"DATE": 11,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1801,
+					"EVENT": "French astronomer Jean-Louis Pons discovers his first comet. He would go on to discover 36 more throughout his career, which is still a world record for comets discovered by one person.",
+					"CATEGORY": "space"
+				}
+			]
+		},
+		{
+			"DATE": 12,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1920,
+					"EVENT": "The Panama Canal formally opened - through the first ship actually passed through about six years earlier.",
+					"CATEGORY": "misc"
+				}
+			]
+		},
+		{
+			"DATE": 13,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1944,
+					"EVENT": "Birth of Erno Rubik, famous for inventing the Rubik's cube in 1974.",
+					"CATEGORY": "birthday"
+				}
+			]
+		},
+		{
+			"DATE": 14,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1867,
+					"EVENT": "Alfred Nobel, namesake of the Nobel Prize, gives the world's first-ever demonstration of dynamite. It took place at a quarry in England.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 15,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2020,
+					"EVENT": "A number of high-profile, verified Twitter accounts were compromised as part of a Bitcoin collection scam. The scammers collected approximately $110,000 USD in cryptocurrency.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 16,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1995,
+					"EVENT": "Amazon's website goes live. Originally a bookseller, Amazon is now the world's largest online retailer.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 17,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1950,
+					"EVENT": "A star is photographed for the first time. The daguerreotype of the star Vega, which is 25 lightyears away, was taken at Harvard.",
+					"CATEGORY": "space"
+				}
+			]
+		},
+		{
+			"DATE": 18,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1968,
+					"EVENT": "Intel is founded. One of the founders, Gordon Morore, also became famous for Moore's Law.",
+					"CATEGORY": "business"
+				}
+			]
+		},
+		{
+			"DATE": 19,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1977,
+					"EVENT": "The first GPS signal is received by an engineer in Cedar Rapids, Iowa.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 20,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1969,
+					"EVENT": "Neil Armstong takes his first steps on the Moon as part of NASA's Apollo 11 mission.",
+					"CATEGORY": "space"
+				}
+			]
+		},
+		{
+			"DATE": 21,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1995,
+					"EVENT": "The Ninendo Virtual Boy is released. Although it became a commercial failure, it was later regarded as ahead of its time in some ways, as it could be considered a forerunner to the Nintendo 3DS and VR headsets such as the Oculus Rift.",
+					"CATEGORY": "video games"
+				}
+			]
+		},
+		{
+			"DATE": 22,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1992,
+					"EVENT": "Sprint announces the first commercial dial-up internet service in the United States. Speeds started at 9.6 kilobits per second.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 23,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1985,
+					"EVENT": "The original Commodore Amiga is released. It competed against the IBM PC and Macintosh and was regarded as being significantly ahead of its time with advanced audio and video capabilities, but these concepts were relatively unfamiliar at the time, leading to the Amiga often being viewed as a gaming platform rather than a proper personal computer.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 24,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2006,
+					"EVENT": "AMD announces that the company is acquiring ATI - and its Radeon GPU lineup - later in the year for $5.4 billion.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 25,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1997,
+					"EVENT": "Researches from John Hopkins announced that human stem cells had been cultured in a laboratory for the first time.",
+					"CATEGORY": "science"
+				}
+			]
+		},
+		{
+			"DATE": 26,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2016,
+					"EVENT": "Solar Impulse 2 becomes the first manned plane to fly completely around the world on solar power.",
+					"CATEGORY": "airplanes"
+				}
+			]
+		},
+		{
+			"DATE": 27,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1949,
+					"EVENT": "The world's first commercial jet airliner, the deHavilland Comet, takes off for the first time. Variants of the plan flew until 1997.",
+					"CATEGORY": "airplanes"
+				}
+			]
+		},
+		{
+			"DATE": 28,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1981,
+					"EVENT": "IBM introduces its first desktop computer, the Datamaster. However, the much more famous IBM PC launched less than a month later for less money, relegating the Datamaster to obscurity.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 29,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1958,
+					"EVENT": "The US National Aeronautics and Space Administration, better known as NASA, is established. Unlike its predecessor, NACA, NASA is charged explicityly with space research.",
+					"CATEGORY": "space"
+				}
+			]
+		},
+		{
+			"DATE": 30,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1863,
+					"EVENT": "Henry Ford, namesake for Ford Motor Company, is born.",
+					"CATEGORY": "birthday"
+				}
+			]
+		},
+		{
+			"DATE": 31,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1989,
+					"EVENT": "The original Game Boy is released in North America and sold over 118 million units world wide over it's lifetime.",
+					"CATEGORY": "video games"
+				},
+				{
+					"YEAR": 1971,
+					"EVENT": "NASA astronaut David Scott becomes the first person to drive on the moon. The rover he drove could only reach speeds of around 8 mph (13 km/h), and remains on the moon today.",
+					"CATEGORY": "space"
+				}
+			]
+		}
+	],
+	"AUG":
+	[
+		{
+			"DATE": 1,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1936,
+					"EVENT": "The opening ceremony of the 11th modern Summer Olympic Games takes place in Berlin. The 1936 Olympics were the first sporting events to be broadcast on live television.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 2,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1880,
+					"EVENT": "The United Kingdom officially adopts Greenwich Mean Time (GMT).",
+					"CATEGORY": "misc"
+				}
+			]
+		},
+		{
+			"DATE": 3,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1977,
+					"EVENT": "The Tandy TRS-80 Model I launches at RadioShake. It was one of the first successful home computers, and enjoyed a large share of the market before the IBM PC and compatibles hit the market.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 4,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1961,
+					"EVENT": "Birth of Barack Obama, 44th President of the United States. His 2008 campaign was the first Presidential campaign in history to buy ads in video games, including Guitar Hero 3 and Burnout Paradise.",
+					"CATEGORY": "birthday"
+				}
+			]
+		},
+		{
+			"DATE": 5,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1963,
+					"EVENT": "The US launches the Emergency Broadcast System (EBS), a statndardized national system to alert the public about civil hazards and severe weather. The similar Emergency Alert System replaced the EBS in 1997.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 6,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1991,
+					"EVENT": "The first web page is published. It was hosted by the European Organization for Nuclear Research (CERN) and contained information about the fledgling World Wide Web. A 1992 version of the page can still be viewed at: http://info.cern.ch/hypertext/WWW/TheProject.html.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 7,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1944,
+					"EVENT": "IBM dedicates the Harvard Mark I, the first automatic, programmable calculator. The Mark I helped to run calculators for the Manhattan Project.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 8,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1991,
+					"EVENT": "The Warsaw Radio Master collapses. At the time it collapsed, it was the world's tallest man-made strucutre, standing over 2120 feet (646 m) tall.",
+					"CATEGORY": "misc"
+				}
+			]
+		},
+		{
+			"DATE": 9,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1859,
+					"EVENT": "The escaltor is patented for the first time. However, the first working escalator would not be installed until the close to the end of the 19th century.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 10,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1675,
+					"EVENT": "Construction begains on the Royal Greenwich Observatory in London. The meridian passing through the site would later be chosen as Earth's Prime Meridian.",
+					"CATEGORY": "misc"
+				}
+			]
+		},
+		{
+			"DATE": 11,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1950,
+					"EVENT": "Birth of Apple co-founder Steve Wozniak. In addition to working closely with Steve Jobs, 'Woz' is also known as the inventor of the universal remote control.",
+					"CATEGORY": "birthday"
+				}
+			]
+		},
+		{
+			"DATE": 12,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1981,
+					"EVENT": "The original IBM Personal Computer was announced. It featured an Intel 8088 CPU and 16 kilobytes of RAM, but no disk drives.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 13,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1889,
+					"EVENT": "The first pay phone is patented by William Gray. Although pay phones were once extremely popular, they are now much harder to find due to the rise of mobile phones.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 14,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2006,
+					"EVENT": "Dell recalls over four million laptop batteries due to concerns they may catch fire. Sony, which manufactured the batteries, acknowledged their own responsibility.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 15,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1998,
+					"EVENT": "Apple releases the iMac G3. Its unique styling was credited with helping Apple's comeback and giving the company a reputation for being focused on design.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 16,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1994,
+					"EVENT": "The world's first smartphone, the IBM Simon, is released. It had a monochrome 160x293 display and a battery life of one hour.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 17,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1859,
+					"EVENT": "The first air mail flight in the United States takes off. Of course, the modern airplane had not yet been invented, so delivery was instead attempted by hot air balloon.",
+					"CATEGORY": "airplane"
+				}
+			]
+		},
+		{
+			"DATE": 18,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1868,
+					"EVENT": "Helium is discovered by French astronomer Pierre Janssen when he observed spectral lines during a total solar eclipse in India.",
+					"CATEGORY": "science"
+				}
+			]
+		},
+		{
+			"DATE": 19,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2004,
+					"EVENT": "Google goes public, selling shares for $85 each. As of the start of September 2020, shares in Alphabet, Google's parent company, trade for over $1,600 each - so hopefully, you invested early.",
+					"CATEGORY": "business"
+				}
+			]
+		},
+		{
+			"DATE": 20,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1986,
+					"EVENT": "Linus Sebastian of Linus Tech Tips is born.",
+					"CATEGORY": "birthday"
+				}
+			]
+		},
+		{
+			"DATE": 21,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1973,
+					"EVENT": "Birth of Sergey Brin, co-founder of Google. Brin's net worth topped $70 billion in 2020.",
+					"CATEGORY": "birthday"
+				}
+			]
+		},
+		{
+			"DATE": 22,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1920,
+					"EVENT": "Birth of Denton Cooley, the first surgeon to implant an artificial heart. The famous surgery took place in 1969, an dthe mechanical heart kept the patient alive for nearly three days until a real heart became available for transplant.",
+					"CATEGORY": "science"
+				}
+			]
+		},
+		{
+			"DATE": 23,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1977,
+					"EVENT": "The first Kremer prize is awarded for the first human-powered flight. The aircraft in question, subbed the Gossamer Condor, was pedaled by championship cyclist Bryan Allen.",
+					"CATEGORY": "airplane"
+				}
+			]
+		},
+		{
+			"DATE": 24,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1995,
+					"EVENT": "Windows 95 is released. The operating system introduced many features that are still present in Windows, including the taskbar, user profiles, and the Start button.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 25,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1900,
+					"EVENT": "Sir Hans Adolf Krebs is born. Krebs won the Nobel Prize for discovering the citric acid cycle - also called the Krebs cycle - which remains the ban of biology students everywhere.",
+					"CATEGORY": "science"
+				}
+			]
+		},
+		{
+			"DATE": 26,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1959,
+					"EVENT": "The first Mini car is introduced. its pratical design has kept it popular into modern times.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 27,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1875,
+					"EVENT": "The chemical element gallium is discovered by French chemist Paul-Emile Lecoq de Boisbaudran. Gallium has become important in current and potential alternatives to silicon in electronics, such as in gallium nitride chargers.",
+					"CATEGORY": "science"
+				}
+			]
+		},
+		{
+			"DATE": 28,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2004,
+					"EVENT": "The first Penny Arcade Expo (PAX) is held in Bellevue, Washington. According to Penny Arcade, exactly 1,337 people pre-registered for the event.",
+					"CATEGORY": "video games"
+				}
+			]
+		},
+		{
+			"DATE": 29,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1831,
+					"EVENT": "Michael Faraday discovers electromagnetic induction, the phenomenon that makes current power generators function.",
+					"CATEGORY": "science"
+				}
+			]
+		},
+		{
+			"DATE": 30,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1963,
+					"EVENT": "Philips introduced the world's first compact cassette tape for audio at the Berlin Radio Show.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 31,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1994,
+					"EVENT": "Adobe merges with Aldus, the company that orginally released PageMaker. the move helped Adobe become an industry force in destop publishing, as Adobe's PostScript language allowed PageMaker projects to be printed with laser printers.",
+					"CATEGORY": "business"
+				}
+			]
+		}
+	],
+	"SEP":
+	[
+		{
+			"DATE": 1,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1979,
+					"EVENT": "The NASA probe Pioneer 11 becomes the first man-made object to visit the planet Saturn.",
+					"CATEGORY": "space"
+				}
+			]
+		},
+		{
+			"DATE": 2,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2008,
+					"EVENT": "Google Chrome is publicly released as a beta. Although Google was originally hesitant to develop it, Chrome is now by far the world's most popular web broswer.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 3,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1995,
+					"EVENT": "eBay is launched. Originally called 'AuctionWeb', the first item sold was a broken laser pointer for $14.83.",
+					"CATEGORY": "business"
+				}
+			]
+		},
+		{
+			"DATE": 4,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1998,
+					"EVENT": "Google is incorportated. At this time, it was being run out of a garage in Menlo Park, California.",
+					"CATEGORY": "business"
+				}
+			]
+		},
+		{
+			"DATE": 5,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1995,
+					"EVENT": "The first Major League Baseball game to be streamed live over the internet - as an audio broadcast - was played between the Seattle Mariners and the New York Yankees. Seattle won 6-5.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 6,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1954,
+					"EVENT": "Construction began on Shippingport Atomic Power Station in Pennsylvania, the first nuclear power plant in the world meant to be used exclusively for peaceful pruposes. the plant was decommissioned in 1989.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 7,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1979,
+					"EVENT": "The Entertainment and Sports Programming Network, better known as ESPN, was launched as the world's first all-sports channel. The first even it broadcast was a slow-pitch softball game.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 8,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2003,
+					"EVENT": "The Recording Industry Association of America announces its first batch of lawsuits against indivuduals for sharing music online. Notably, a 12-year-old girl was forced to pay $2,000 in a settlement. The lawsuits made RIAA the subject of intense public criticism for resorting to heavy-handed legal tactics.",
+					"CATEGORY": "misc"
+				}
+			]
+		},
+		{
+			"DATE": 9,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1940,
+					"EVENT": "George Stibitz becomes the first person in history to operate a computer remotely, when he used a teletype at Dartmouth College to control a computer in New York City.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 10,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1948,
+					"EVENT": "Birth of Charles Simonyi, the software engineer who originally built Microsoft Office and helped develop the first WYSIWYG word processor.",
+					"CATEGORY": "birthday"
+				}
+			]
+		},
+		{
+			"DATE": 11,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1977,
+					"EVENT": "The Atari 2600 is released in North America. It sold over 30 million units over its lifespan and had over 500 different games, some of which lead to the 1983 video game crash.",
+					"CATEGORY": "video games"
+				},
+				{
+					"YEAR": 1822,
+					"EVENT": "The Catholic College of Cardinals decides to allow books asserting that the Earth revolves around the Sun.",
+					"CATEGORY": "science"
+				}
+			]
+		},
+		{
+			"DATE": 12,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1958,
+					"EVENT": "The integrated circuit is demonstrated for the first time by Jack Kilby of Texas Instruments.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 13,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1985,
+					"EVENT": "The original Super Mario Bros. is released for the NES. The game would go on the sell over 40 million copies.",
+					"CATEGORY": "video games"
+				}
+			]
+		},
+		{
+			"DATE": 14,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1956,
+					"EVENT": "IBM announces the world's first hard drive. It was nearly six feet tall and had the capacity of only five megabytes.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 15,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1997,
+					"EVENT": "Google registers the domain google.com after previously using Stanford University domains for a little over a year.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 16,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1999,
+					"EVENT": "The 802.11b Wi-Fi protocol is approved. It was the first widespread consumer implementation of Wi-Fi, delivering speeds up to 11 megabits per second.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 17,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1991,
+					"EVENT": "The Linux kernel is released. Originally created by Linus Torvalds as an open-source Unix-like operating system, it is now the leading OS on servers worldwide.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 18,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1927,
+					"EVENT": "CBS is founded and goes on the air as a radio-only network.",
+					"CATEGORY": "business"
+				}
+			]
+		},
+		{
+			"DATE": 19,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1982,
+					"EVENT": "Scott Fahlman invents the emoticon at Carnegie Mellon University. Fahlman's original intent was to make it clear when someone was joking when posting on electronic bulletin boards.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 20,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2018,
+					"EVENT": "Nvidia releases the GeForce RTX 2080 GPU, the first consumer GPU to feature hardware ray-tracing.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 21,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1893,
+					"EVENT": "The Duryea Motor Wagon is demonstrated. In 1895, the Duryea Motor Wagon Company would become the first American company to manufacture gasoline-powered cars.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 22,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1986,
+					"EVENT": "In NEC v. Intel, a US federal court rules that computer code can be copyrighted.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 23,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1998,
+					"EVENT": "The USB 1.1 specification is released. This was the first USB revision to become widely adopted in consumer electronics.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 24,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1948,
+					"EVENT": "Honda Motor Company is founded. Honda has gone on to become the world's fifth-largest automaker by revenue as of 2019.",
+					"CATEGORY": "business"
+				}
+			]
+		},
+		{
+			"DATE": 25,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1956,
+					"EVENT": "The first transatlantic submarine phone cable is inaugurated. Known as TAT-1, it connected Scotland and Newfoundland and was retired in 1978.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 26,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1983,
+					"EVENT": "Atari infamously dumped about 700,000 game cartridges in a New Mexico landfill - including many copies of E.T., considereed to be one of the worst video games ever made.",
+					"CATEGORY": "video games"
+				}
+			]
+		},
+		{
+			"DATE": 27,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1998,
+					"EVENT": "The yellow virtual first down line is broadcast for the first time in the NFL game, in which the Baltimore Ravens defeated the Cincinnati Bengals 31-24.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 28,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1997,
+					"EVENT": "Apple adopts 'Think Different' as its advertsing slogan. It has been widely speculated the slogan was partially a response to IBM's 'THINK' slogan.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 29,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1901,
+					"EVENT": "Birth of Enrico Fermi, known for helping to discover the weak interaction and his work on nuclear fision.",
+					"CATEGORY": "birthday"
+				}
+			]
+		},
+		{
+			"DATE": 30,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1980,
+					"EVENT": "The original Ethernet standard is published. At the time, the maximum speed was 10 Mbps, though Ethernet actually originated as a 3 Mbps interface serveral years earlier.",
+					"CATEGORY": "tech"
+				}
+			]
+		}
+	],
+	"OCT":
+	[
+		{
+			"DATE": 1,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1982,
+					"EVENT": "The first audio compact disc available to the public - a Billy Joel album - is released in Japan.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 2,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1956,
+					"EVENT": "The first commercial atomic clock was introduced. Called the Atomichron, it kept time by using the oscillations of the cesium atom, similar to how modern atomic clocks work.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 3,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1950,
+					"EVENT": "The transistor is patented after it was successfully demonstrated in 1947.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 4,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1957,
+					"EVENT": "The Soviet Union launches Sputnik 1, th first artificial satellite. The launch escalted the Space Rce between the USSR and the United States.",
+					"CATEGORY": "space"
+				}
+			]
+		},
+		{
+			"DATE": 5,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1992,
+					"EVENT": "IBM launches the iconic ThinkPad laptop. The brand has endured to this day - although IBM sold it to Lenovo in 2005.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 6,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1997,
+					"EVENT": "Stanley B. Prusiner is awarded a Nobel Prize for discovering prisons, the infectious, misfolded proteins responsible for mad cow disease and a similar disease in humans called CJD.",
+					"CATEGORY": "science"
+				}
+			]
+		},
+		{
+			"DATE": 7,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1954,
+					"EVENT": "IBM displays a vacuum tube calculator that had been refitted with transistors. The first transistor calculator in history, this modified Model 604 using 95% less power than the original.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 8,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1992,
+					"EVENT": "The original Mortal Kombat is released in arches. The game has since spawned ten sequels (as of 2020) and numerous spin-off titles.",
+					"CATEGORY": "video games"
+				}
+			]
+		},
+		{
+			"DATE": 9,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1876,
+					"EVENT": "Alexander Graham Bell and Thomas Watson have the first-ever phone conversation over outdoor wires. Bell was in Boston at the time, while Watson was in Cambridge.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 10,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1967,
+					"EVENT": "Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including the Moon and Other Celestial Bodies is signed by the United States and the Soviet Union.",
+					"CATEGORY": "space"
+				}
+			]
+		},
+		{
+			"DATE": 11,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1999,
+					"EVENT": "Nvidia releases the GeForce 256, the first GPU in its GeForce lineup. It was manufactured on a 220 nanometer process and ran at 120 megahertz.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 12,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1988,
+					"EVENT": "The NeXT personal computer is introduced. It was Steve Jobs' first major project after leaving Apple. Although sales were disappointing, it was quite innovative for its time, even featuring read/write optical storage.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 13,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1983,
+					"EVENT": "The first commercial cell phone call is the US is made. A relative of Alexander Graham Bell was on the reciving end.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 14,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1947,
+					"EVENT": "The first manned flight to break the sound barrier took place. Chuck Yeager reached a speed of 807.2 miles per hour - or Mach 1.06 - in the experimental Bell X-1 aircraft over the Mojave Desert.",
+					"CATEGORY": "airplane"
+				}
+			]
+		},
+		{
+			"DATE": 15,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1973,
+					"EVENT": "The Unix operating system is publicly introduced for the first time. Modern operating systems such as Linux, iOS, and MacOS are based on Unix.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 16,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1959,
+					"EVENT": "The CDC 1604, one of the first popular transistor computers, is released. Designed by Seymour Cray, it was the world's most powerful computer at the time and an early milestone of Cray's famous career in supercomputers.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 17,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1990,
+					"EVENT": "The Internet Movie Database, or IMDb, is launched as a Usenet database. It did not appear on the Web until 1993.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 18,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1985,
+					"EVENT": "The Nintendo Entertainment System, better known to many as the NES, was released in North America. It sold over 61 million units in it's lifttime and had the likes of the first Mario and first Legend of Zelda games in it's game library. It is also credited with turning around the struggling video game market in the United States.",
+					"CATEGORY": "video games"
+				}
+			]
+		},
+		{
+			"DATE": 19,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1972,
+					"EVENT": "The first esports event is heald - a tournament for the game Spacewar! at Stanford University.",
+					"CATEGORY": "video games"
+				}
+			]
+		},
+		{
+			"DATE": 20,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2004,
+					"EVENT": "Ubuntu Linux is released. Ubuntu remains a very popular desktop Linux distribution, and another widespread distribution, Linux Mint, is based on Ubuntu.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 21,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2010,
+					"EVENT": "Microsoft releases its Windows Phone operating system. Unfortunately for Redmond, Microsoft's OS couldn't gain traction against iOS and Android, and development stopped in 2017.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 22,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2010,
+					"EVENT": "Microsoft stops selling Windows Vista at retail. The operating system received a tsunami of negative press, but its successor Windows 7 was much better-received.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 23,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2001,
+					"EVENT": "The original iPod is released. It came in 5 and 10 gigabyte versions and featured a mechanical wheel for scrolling.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 24,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1994,
+					"EVENT": "Iomega announces the Zip drive, a 'superfloppy' drive with disks that could hold 100 megabytes. Zip disk capacity eventually grew to 750 megabytes before the product lineup was discontinued in 2003 due to competition from writable CDs and USB flash drives.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 25,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2011,
+					"EVENT": "Windows XP is released. XP marked a significant transistion for Windows, not just in terms of the user interface, but becasuse it was the first consumer version of Windows built on the NT kernel rather than MS-DOS.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 26,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1984,
+					"EVENT": "A newborn child recieves a heart transplant using an animal heart for the first time. The transplanted organ was from a baboon.",
+					"CATEGORY": "science"
+				}
+			]
+		},
+		{
+			"DATE": 27,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1980,
+					"EVENT": "The ARPANET, the predecessor to the Internet, experiences its first major crash. The outage lasted about four hours.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 28,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1998,
+					"EVENT": "The Digital Millennium Copyright Act (DMCA) becomes law in the United States. Its anti-circumvention and takedown provisions have become sources of considerable controversy.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 29,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1988,
+					"EVENT": "Sega releases the Mega Drive console in Japan - known in the US as the Genesis. It became a successfule competitor to the SNES, thanks in large part to the Sonic the Hedgehog series.",
+					"CATEGORY": "video games"
+				}
+			]
+		},
+		{
+			"DATE": 30,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1938,
+					"EVENT": "Orson Welles gives his famous broadcast of The War of teh Worlds. There were reports of frightened listners across the United States as some believed they were listening to a real news broadcast covering an alien invasion. However, reports of mass panic have since been dismissed as media hype.",
+					"CATEGORY": "misc"
+				}
+			]
+		},
+		{
+			"DATE": 31,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1913,
+					"EVENT": "The Lincoln Highway is dedicated. It was the first transcontinental highway for automobiles in the US, running from New York City to San Francisco.",
+					"CATEGORY": "misc"
+				}
+			]
+		}
+	],
+	"NOV":
+	[
+		{
+			"DATE": 1,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1996,
+					"EVENT": "The world's first DVD player, the Toshiba SD-3000, was released in Japan. IT cost 77,000 yen, or $680 USD - the quivalent of over $1,100 USD today.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 2,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1936,
+					"EVENT": "The first-ever regular, public high-definition TV broadcasts began in London. However, with 405 lines of resultion, it wasn't quite as high-defintion as modern broadcasts.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 3,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1957,
+					"EVENT": "Soviet spacecraft Sputnik 2 carries the first living animal into space - a stray dog found wandering the streets of Moscow. The dog, named Laika, was honored with a statue near a Moscow military facility in 2008.",
+					"CATEGORY": "space"
+				}
+			]
+		},
+		{
+			"DATE": 4,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1982,
+					"EVENT": "The Compaq Portable is annoucned. Although it was hardly portable by today's standards, as it weighed 28 lbs (13 kg), it became notable for being the first commercially successful IBM PC-compatible system.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 5,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2007,
+					"EVENT": "Android is announced. It has since become the world's most-used operating system across devices.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 6,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1980,
+					"EVENT": "Microsoft and IBM sign an agreement for Microsoft to create an operating system for the IBM PC. The operating system, PC DOS, was a version of MS-DOS. Microsoft kept ownwership of MS-DOS and also sold it to other computer manufacturers, helping Microsoft dominate the OS market for PC compatibles.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 7,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2000,
+					"EVENT": "The infamous US presidential election between George W. Bush and Al Gore is held. Its tech-related legacies include the phasing out of punch-card ballots and the convention of 'red states' and 'blue states', developed in the days following the election by mjor US television outlets.",
+					"CATEGORY": "misc"
+				}
+			]
+		},
+		{
+			"DATE": 8,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1910,
+					"EVENT": "The first US patent for a bug zapper is issued. The inventor, William M. Frost, originally called teh device an 'electric insect-destroyer'.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 9,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2004,
+					"EVENT": "Firefox 1.0 is launched. Although Firefox had already gone through many pre-release versions, this was the first version aimed at the general public. Fans raised money to take out an ad for the broswer in the New York Times.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 10,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1983,
+					"EVENT": "Fred Cohen, a graduate student at eh the University of Southern California, gives a report on a piece of malware he created as a computer security experiment - the first known computer virus.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 11,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1973,
+					"EVENT": "The first network linked up via Ethernet runs for the first time. However, Ethernet would not be standardized until the 1980s.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 12,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2020,
+					"EVENT": "The Playstation 5 was released world wide during what is now known as the 'World Chip Shortage' making buying and making the PS5 extremely hard.",
+					"CATEGORY": "video games"
+				},
+				{
+					"YEAR": 2017,
+					"EVENT": "A representative from Electronic Arts infamously leaves the most-downvoted comment in the history of Reddit, regarding how long it took to unlock certain characters in teh game Star Wars Battlefront II.",
+					"CATEGORY": "video games"
+				}
+			]
+		},
+		{
+			"DATE": 13,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1940,
+					"EVENT": "The classic Disney movie Fantasia is released. The film is notable for being the first movie to feature surround sound.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 14,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1922,
+					"EVENT": "The British Broadcasting Corporation (BBC) makes its first radio broadcast. The BBC remains the world's oldest national broadcaster.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 15,
+			"EVENTS":
+			[
+				{
+					"YEAR": 2001,
+					"EVENT": "The origianl Xbox was launched. It launched Halo: Combat Evoled, Prject Gatham Racing and Dead or Alive 3. The console would go on to sell over 24 million units.",
+					"CATEGORY": "video games"
+				}
+			]
+		},
+		{
+			"DATE": 16,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1904,
+					"EVENT": "John Ambrose Fleming, a British engineer, patents the first vacuum tube. Vacuum tubes were the building blocks of eletronics until transistors mostly replaced them in the mid-20th century.",
+					"CATEGORY": "tech"
+				}
+				,
+				{
+					"YEAR": 1952,
+					"EVENT": "Shigeru Miyamoto was born. He is the creator of Mario, Legend of Zelda, Donkey Kong, Star Fox, and Pikmin.",
+					"CATEGORY": "video games"
+				}
+			]
+		},
+		{
+			"DATE": 17,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1970,
+					"EVENT": "Douglas Engelbart patents the first computer mouse. It could only move up and down or left and right, but not at the same time.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 18,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1963,
+					"EVENT": "The first push-button telephones are introduced, offering an easy-to-use alternative to rotary phones. Customers in Pennsylvania were the first to get their hands on the new devices.",
+					"CATEGORY": "tech"
+				},
+				{
+					"YEAR": 2001,
+					"EVENT": "The Nintendo GameCube was released in North America. Some launch titles were Luigi's Mansion, Super Monkey Ball, and Tony Hawk's Pro Skate 3. The console went on to sell more than 21 million units world wide.",
+					"CATEGORY": "video games"
+				}
+			]
+		},
+		{
+			"DATE": 19,
+			"EVENTS":
+			[
+				{
+					"YEAR": 1990,
+					"EVENT": "Microsoft Office is released. Word, Excel, and Powerpoint were originally its only components.",
+					"CATEGORY": "tech"
+				}
+			]
+		},
+		{
+			"DATE": 20,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 21,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 22,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 23,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 24,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 25,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 26,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 27,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 28,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 29,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 30,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		}
+	],
+	"DEC":
+	[
+		{
+			"DATE": 1,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 2,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 3,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 4,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 5,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 6,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 7,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 8,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 9,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 10,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 11,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 12,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 13,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 14,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 15,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 16,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 17,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 18,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 19,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 20,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 21,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 22,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 23,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 24,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 25,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 26,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 27,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 28,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 29,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 30,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		},
+		{
+			"DATE": 31,
+			"EVENTS":
+			[
+				{
+					"YEAR": ,
+					"EVENT": "",
+					"CATEGORY": ""
+				}
+			]
+		}
+	]
+}
