@@ -3647,9 +3647,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1985,
+					"EVENT": "Windows 1.0 launches. Windows was orginally a graphical environment that ran on top of MS-DOS rather than a full standalone operating system.",
+					"CATEGORY": "tech"
 				}
 			]
 		},
@@ -3658,9 +3658,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 2000,
+					"EVENT": "The Serial ATA (SATA) 1.0 draft specification is released. SATA remains widespread in computer storage, it has been displaced somewhat by the NVMe protocol.",
+					"CATEGORY": "tech"
 				}
 			]
 		},
