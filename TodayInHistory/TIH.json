@@ -57,7 +57,7 @@
 				{
 					"YEAR": 1642,
 					"EVENT": "Birth of Sir Isaac Newton, who helped develop modern calculus and our understanding of classical mechanics.",
-					"CATEGORY": "physics"
+					"CATEGORY": "birthday"
 				}
 			]
 		},
@@ -134,7 +134,7 @@
 				{
 					"YEAR": 1984,
 					"EVENT": "Birth of Matt Mullenweg, known for developing WordPress",
-					"CATEGORY": "tech"
+					"CATEGORY": "birthday"
 				}
 			]
 		},
@@ -1609,7 +1609,7 @@
 				{
 					"YEAR": 1908,
 					"EVENT": "Birth of physicist John Bardeen. The only person to win the Nobel Physics Prize twice, he is most famous for being a co-inventor of the transistor.",
-					"CATEGORY": "tech"
+					"CATEGORY": "birthday"
 				}
 			]
 		},
@@ -1799,7 +1799,7 @@
 				{
 					"YEAR": 1781,
 					"EVENT": "Birth of George Stephenson, a British engineer who built the world's first locomotive railway connecting two cities - Liverpool and Manchester.",
-					"CATEGORY": "tech"
+					"CATEGORY": "birthday"
 				}
 			]
 		},
@@ -2049,7 +2049,7 @@
 				{
 					"YEAR": 1646,
 					"EVENT": "Birth of Gottfried Wilhelm Leibniz. Along with Isaac Newton, Leibniz developed modern calculus.",
-					"CATEGORY": "tech"
+					"CATEGORY": "birthday"
 				}
 			]
 		},
@@ -3691,9 +3691,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1998,
+					"EVENT": "AOL buys Netscape for over $4 billion. The move was supposed to help AOL challenge Microsoft by making AOL less dependent on Internet Explorer, but Netscape was ultimately shut down in 2003",
+					"CATEGORY": "tech"
 				}
 			]
 		},
@@ -3702,9 +3702,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1844,
+					"EVENT": "Birth of Carl Benz, namesake of Mercedes-Benz. He designed the world's first internal combustion engine-powered car.",
+					"CATEGORY": "birthday"
 				}
 			]
 		},
@@ -3713,9 +3713,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1948,
+					"EVENT": "The first Polaroid camera, the Model 95 invented by Edwin Land, was made available to the public.",
+					"CATEGORY": "tech"
 				}
 			]
 		},
@@ -3724,9 +3724,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1998,
+					"EVENT": "The Sega Dreamcast console makes its debut in Japan. Although it couldn't save Sega's console business, the console was ahead of its time, beating the PlayStation 2 to market by well over a year.",
+					"CATEGORY": "video games"
 				}
 			]
 		},
@@ -3735,9 +3735,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 2002,
+					"EVENT": "The Sale of Napster to Roxio is approved. Roxio turned Napster into a legal service where users could pay for music.",
+					"CATEGORY": "tech"
 				}
 			]
 		},
@@ -3746,9 +3746,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1972,
+					"EVENT": "Atari announces the original Pong. The first video game to succeed commercially, it has been remade numerous times and remains popular.",
+					"CATEGORY": "video games"
 				}
 			]
 		},
@@ -3757,9 +3757,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1886,
+					"EVENT": "The first commercial power plant in the US to use alternating current begins operating in Buffalo, New York.",
+					"CATEGORY": "tech"
 				}
 			]
 		}
@@ -3771,9 +3771,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1990,
+					"EVENT": "Workers from the United Kingdom and France drill far enough to join the two ends of the Channel Tunnel or 'Chunnel'. The Chunnel would open and begin carrying passengers in 1994.",
+					"CATEGORY": "tech"
 				}
 			]
 		},
@@ -3782,9 +3782,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1991,
+					"EVENT": "Apple releases Quicktime. Quicktime allowed Macintosh user to play video without additional hardware - a huge leap forward for multimedia at the time.",
+					"CATEGORY": "tech"
 				}
 			]
 		},
@@ -3793,9 +3793,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1994,
+					"EVENT": "The original PlayStation is launched in Japan. It was the first popular home console to use optical media instead of artridges. It would go onto sell over 100 million units in it's lifespan.",
+					"CATEGORY": "video games"
 				}
 			]
 		},
@@ -3804,9 +3804,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1996,
+					"EVENT": "NASA's Mars Pathfinder is launched. It was the first rover to land on Mars, and sent 287.5 megabytes of information back to Earth.",
+					"CATEGORY": "space"
 				}
 			]
 		},
@@ -3815,9 +3815,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1969,
+					"EVENT": "The original ARPANET, the predecessor of the Internet, was completed with four nodes in the western United States.",
+					"CATEGORY": "tech"
 				}
 			]
 		},
@@ -3826,9 +3826,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1877,
+					"EVENT": "The first known playable sound recording is demonstrated. Thomas Edison recorded himself reciting a verse of 'Mary Had A Little Lamb' into a cylinder phonograph.",
+					"CATEGORY": "tech"
 				}
 			]
 		},
@@ -3837,9 +3837,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1972,
+					"EVENT": "Apollo 17 astronauts take the famous photo of Earth entitled The Blue Marble.",
+					"CATEGORY": "space"
 				}
 			]
 		},
@@ -3848,9 +3848,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1975,
+					"EVENT": "The Byte Shop, an early retail computer store, opens its doors in Mountain View, California. It was the first store to sell Apple computers.",
+					"CATEGORY": "tech"
 				}
 			]
 		},
@@ -3859,9 +3859,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1921,
+					"EVENT": "Reserachers discover that adding lead to gasoline reduced engine knocking and improved fuel economy. However, leaded gasoline has been phased out nearly worldwide due to health concerns and changes in fuel system design - hence the fact gasoline labeled 'unleaded' is widespread.",
+					"CATEGORY": "cars"
 				}
 			]
 		},
@@ -3870,9 +3870,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1945,
+					"EVENT": "The ENIAC, the world's first digital electronic computer, was used for the first time. It was developed for the United States Army, and was first used to perform calculations for the hydrogen bomb.",
+					"CATEGORY": "tech"
 				}
 			]
 		},
@@ -3881,9 +3881,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1910,
+					"EVENT": "The first neon light is demonstrated in Paris by Georges Claude. Although Claude's company would go on to hold a monopoly on the neon light industry in the US, he was later disgraced for collaborating with Nazi occupation forces during World War II.",
+					"CATEGORY": "tech"
 				}
 			]
 		},
@@ -3892,9 +3892,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1993,
+					"EVENT": "The first modern search engine, JumpStation, goes live. Unlike prior search tools, JumpStation provided web crawling and searching, similar to contemporary search engines.",
+					"CATEGORY": "tech"
 				}
 			]
 		},
@@ -3903,9 +3903,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 2016,
+					"EVENT": "Apple releases AirPods, the company's famous wireless earbuds. In 2019, it was estimated that Apple would make $700 million just from selling replacements, as AirPods are notoriously easy to lose.",
+					"CATEGORY": "tech"
 				}
 			]
 		},
@@ -3914,9 +3914,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 2004,
+					"EVENT": "The Millau Viaduct is completed in southern France. It remains the world's tallest bridge at 336.4 meters (about 1,104 feet).",
+					"CATEGORY": "misc"
 				}
 			]
 		},
@@ -3925,9 +3925,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1994,
+					"EVENT": "Netscape Navigator 1.0 is officially released. It quickly came to dominate the Internet broswer market and helped the Internet become broadly popular, but Internet Explorer had overtaken it as the most popular broswer by the end of the 1990s.",
+					"CATEGORY": "tech"
 				}
 			]
 		},
@@ -3936,9 +3936,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 2003,
+					"EVENT": "The US government's CAN-SPAM Act is signed into law. It had little immediate effect; by 2008, Cisco estimated that around 90 percent of e-mail was spam.",
+					"CATEGORY": "tech"
 				}
 			]
 		},
@@ -3947,9 +3947,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1903,
+					"EVENT": "The Wright Brothers of Dayton, Ohio make their famous first flight of a powered, heavier-than-air aircraft near Kitty Hawk, North Carolina. The flight only lasted about 12 seconds.",
+					"CATEGORY": "airplanes"
 				}
 			]
 		},
@@ -3958,9 +3958,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1926,
+					"EVENT": "The scientific journal Nature publishes a letter from chemist Gilbert Lewis in which he coined the term 'photon'.",
+					"CATEGORY": "science"
 				}
 			]
 		},
@@ -3969,9 +3969,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1974,
+					"EVENT": "The first successful personal computer, the Altair 8800, goes on sale. It was originally sold as a kit rather than an assembled system.",
+					"CATEGORY": "tech"
 				}
 			]
 		},
@@ -3980,9 +3980,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1996,
+					"EVENT": "Apple annouces its plans to purchase NeXT. The move brought Steve Jobs back to Apple, and gave Apple the basis for Mac OS X and iOS, as those operating systems are based on NeXTSTEP, the OS that NeXT developed for its own machines.",
+					"CATEGORY": "tech"
 				}
 			]
 		},
@@ -3991,9 +3991,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1937,
+					"EVENT": "Snow White and the Seven Dwarfs premieres. The movie was the first full-length animated film.",
+					"CATEGORY": "tech"
 				}
 			]
 		},
@@ -4002,9 +4002,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1882,
+					"EVENT": "Electric Christmas tree lights are used for the first time as Edward Johnson, vice-president of Edison Electric Light Company, put them on a Christmas tree at his New York City home.",
+					"CATEGORY": "tech"
 				}
 			]
 		},
@@ -4013,9 +4013,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1947,
+					"EVENT": "The first transistor was demonstrated at Bell Labs in New Jersey. Today, the transistor is the fundamental building block of all modern electronics.",
+					"CATEGORY": "tech"
 				}
 			]
 		},
@@ -4024,9 +4024,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1968,
+					"EVENT": "The crew of the Apollo 8 become the first humans to orbit the Moon.",
+					"CATEGORY": "space"
 				}
 			]
 		},
@@ -4035,9 +4035,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1990,
+					"EVENT": "The world's first web broswer, simple called 'WorldWideWeb', was introduced. Originally, the broswer did not have support for inline images, so any images would be shown in separate windows.",
+					"CATEGORY": "tech"
 				}
 			]
 		},
@@ -4046,9 +4046,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1791,
+					"EVENT": "Birth of Charles Babbage, known for inventing the Analysical Egine, a mechanical computer that had the same fundamental characteristics as modern electronics computers.",
+					"CATEGORY": "birthday"
 				}
 			]
 		},
@@ -4057,9 +4057,14 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1571,
+					"EVENT": "Birth of Johannes Kepler, astronomer who accurately described the nature of planetary motion.",
+					"CATEGORY": "birthday"
+				},
+				{
+					"YEAR": 1996,
+					"EVENT": "Marvel Comics filed for bankruptcy. This is when they sold off the movie rights to Spider-Man to Sony, Hulk to Universal, and X-Men to Fox. The rights are forever as long as the studios continue making movies using the characters.",
+					"CATEGORY": "comics"
 				}
 			]
 		},
@@ -4068,9 +4073,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1969,
+					"EVENT": "Birth of Linus Torvalds, developer of Linux.",
+					"CATEGORY": "birthday"
 				}
 			]
 		},
@@ -4079,9 +4084,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1800,
+					"EVENT": "Birth of Charles Goodyear, namesake for Goodyear tire brand and inventor of vulcanized rubber, used in virtually all modenrn tires.",
+					"CATEGORY": "birthday"
 				}
 			]
 		},
@@ -4090,9 +4095,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 2004,
+					"EVENT": "Facebook's millionth user signs up. At the time, the service was still only available to college students.",
+					"CATEGORY": "tech"
 				}
 			]
 		},
@@ -4101,9 +4106,9 @@
 			"EVENTS":
 			[
 				{
-					"YEAR": ,
-					"EVENT": "",
-					"CATEGORY": ""
+					"YEAR": 1999,
+					"EVENT": "The worlds braced for Y2K. Among converns that computers' perceived inability to handle dates after the year 1999 would cause widespread negative consequences. However, few problems were actually reported once the new year began.",
+					"CATEGORY": "tech"
 				}
 			]
 		}
